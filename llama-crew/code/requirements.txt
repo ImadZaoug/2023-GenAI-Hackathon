@@ -1,3 +1,0 @@
-streamlit-chat
-streamlit-extras
-gradio-client
